@@ -41,7 +41,7 @@ After reversing the code we can now understand that main steps
 
 Knowing that we can generate payload with three blocks, that after xor operations generate zero hash
 
-I have written script that generate three blocks, third block is xored value of first two. And thats it
+I have written [script](IrisCTF/dhash/generate_payload.py) that generate three blocks, third block is xored value of first two. And thats it
 
 ![image](https://github.com/NOZ1000/CTF_Writeups_from_NOZi/assets/56728939/23beff93-b22e-4faf-9fba-87d8344b0b1c)
 
