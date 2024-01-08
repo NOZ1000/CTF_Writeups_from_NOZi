@@ -37,7 +37,7 @@ After reversing the code we can now understand that main steps
 1) Devides our input into blocks by 256 bytes
 2) Each block calculates modular exponentiation than converts to bytes and xores with previous state and stores it to state
 
-# Solution
+# Solution ([script](IrisCTF/dhash/generate_payload.py))
 
 Knowing that we can generate payload with three blocks, that after xor operations generate zero hash
 
