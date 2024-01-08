@@ -1,3 +1,5 @@
+# Main idea
+
 Program takes two input 
 
 1) The Public Key of The Memory: `Must be an integer`
