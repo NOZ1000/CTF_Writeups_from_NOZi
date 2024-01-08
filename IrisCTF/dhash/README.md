@@ -59,4 +59,4 @@ An thats it, save payload to file
 
 Boom! Get the flag
 
-![image](https://github.com/NOZ1000/CTF_Writeups_from_NOZi/assets/56728939/4744708c-9685-4d82-b94b-5cfb307f5a39)
+![image](https://github.com/NOZ1000/CTF_Writeups_from_NOZi/assets/56728939/65e5307a-203c-46ae-a08b-332049778fc8)
