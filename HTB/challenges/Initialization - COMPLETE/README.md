@@ -1,6 +1,6 @@
 # Main idea 
 
-Challenge contain `source.py`, `messages.txt`, `output.txt`. We need to decrypt encrpyted flag from `output.txt`. `messages.txt` contain 4 strings where 3 string is flag, respectivly in `output.txt` 3 line is ecnrypted 
+Challenge contain `source.py`, `messages.txt`, `output.txt`. We need to decrypt encrpyted flag from `output.txt`. `messages.txt` contain 4 strings where 3 string is flag, respectivly in `output.txt` 3 line is encrypted flag.
 
 # Reverse the code
 
