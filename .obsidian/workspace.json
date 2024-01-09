@@ -11,8 +11,12 @@
             "id": "788d5c9a4fdaf62a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTB/challenges/Initialization - COMPLETE/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md",
+                "file": "HTB/challenges/Initialization - COMPLETE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md",
+                "file": "HTB/challenges/Initialization - COMPLETE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md"
+                "file": "HTB/challenges/Initialization - COMPLETE/README.md"
               }
             }
           },
@@ -151,10 +155,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "95f2d4dbad7befbd",
+  "active": "788d5c9a4fdaf62a",
   "lastOpenFiles": [
-    "HTB/challenges/Android-in-the-Middle - COMPLETE/solution.py.md",
+    "HTB/challenges/Initialization - COMPLETE/README.md",
+    "HTB/challenges/Initialization - COMPLETE",
     "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md",
+    "HTB/challenges/Android-in-the-Middle - COMPLETE/solution.py.md",
     "IrisCTF/dhash/README.md",
     "HTB/challenges/Ancient Encodings - COMPLETE/README.md",
     "attachments/Pasted image 20240109101602.png",
