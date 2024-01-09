@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
+                "file": "HTB/challenges/Ancient Encodings - COMPLETE/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
+                "file": "HTB/challenges/Ancient Encodings - COMPLETE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
+                "file": "HTB/challenges/Ancient Encodings - COMPLETE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md"
+                "file": "HTB/challenges/Ancient Encodings - COMPLETE/README.md"
               }
             }
+          },
+          {
+            "id": "eb0d1547edc52482",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +155,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2bbc013cccc7c897",
+  "active": "eb0d1547edc52482",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240109101602.png",
+    "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
+    "HTB/challenges/Ancient Encodings - COMPLETE/README.md",
+    "HTB/challenges/Ancient Encodings - COMPLETE",
     "attachments/Pasted image 20240109094039.png",
     "attachments/Pasted image 20240109093934.png",
     "attachments/Pasted image 20240109093819.png",
     "HTB/challenges/Android-in-the-Middle - COMPLETE/README.md",
-    "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
     "HTB/challenges/Gonna-Lift-Em-All - COMPLETE",
     "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md",
     "attachments/Pasted image 20240108185150.png",
@@ -163,7 +174,6 @@
     "attachments/Pasted image 20240108185039.png",
     "attachments/Pasted image 20240108185025.png",
     "attachments/Pasted image 20240108185005.png",
-    "attachments/Pasted image 20240108184945.png",
     "IrisCTF/dhash/README.md",
     "HTB/challenges/Android-in-the-Middle - COMPLETE",
     "HTB/challenges",
