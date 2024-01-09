@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/challenges/Android-in-the-Middle - COMPLETE/README.md",
+                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/challenges/Android-in-the-Middle - COMPLETE/README.md",
+                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/challenges/Android-in-the-Middle - COMPLETE/README.md",
+                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/challenges/Android-in-the-Middle - COMPLETE/README.md"
+                "file": "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "2bbc013cccc7c897",
   "lastOpenFiles": [
-    "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md",
+    "attachments/Pasted image 20240109093819.png",
     "HTB/challenges/Android-in-the-Middle - COMPLETE/README.md",
+    "HTB/challenges/Gonna-Lift-Em-All - COMPLETE/README.md",
+    "HTB/challenges/Gonna-Lift-Em-All - COMPLETE",
+    "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md",
     "attachments/Pasted image 20240108185150.png",
     "attachments/Pasted image 20240108185126.png",
     "attachments/Pasted image 20240108185108.png",
