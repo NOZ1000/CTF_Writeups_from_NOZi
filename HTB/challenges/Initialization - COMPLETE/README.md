@@ -38,6 +38,7 @@ Then in main function 4 messages are encrypting and stores in file in hex format
 It uses `encrypt(i, MSG)` method 
 
 ![](../../../attachments/Pasted%20image%2020240109230126.png)
+
 `i` is index for each message, in this code it doesnt matter because `CTRs` and `keys` are the same. Than creates instance of AES cipher with MODE_CTR. Finally returns encrypted cipher text.
 
 # Solution
