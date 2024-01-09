@@ -22,3 +22,4 @@ print(decode())
 > [!note] 
 > `output_hex` = `0x5346...` coverts to integer immidiatly
 
+https://www.hackthebox.com/achievement/challenge/995476/475
