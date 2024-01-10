@@ -43,7 +43,7 @@ But before that i have found in [wiki](https://en.wikipedia.org/wiki/Wiener%27s_
 
 ![](../../../attachments/Pasted%20image%2020240110114619.png)
 
-After that i decided to find already implemented Wiener's Attack.
+After that i decided to find [already implemented Wiener's Attack](https://github.com/orisano/owiener).
 
 We can install it with command:
 
