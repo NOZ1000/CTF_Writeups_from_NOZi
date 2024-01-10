@@ -1,6 +1,6 @@
 # Main idea 
 
-Its RSA challnage according to title. We have provided by two files `key.pub` and `flag.enc`. Exactly in `key.pub` stored public key for RSA in PEM format.
+Its RSA challange according to title. We have provided by two files `key.pub` and `flag.enc`. Exactly in `key.pub` stored public key for RSA in PEM format.
 
 ![](../../../attachments/Pasted%20image%2020240110113314.png)
 
