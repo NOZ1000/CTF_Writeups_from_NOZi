@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/challenges/Weak RSA/README.md",
+                "file": "HTB/challenges/Weak RSA - COMPLETE/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/challenges/Weak RSA/README.md",
+                "file": "HTB/challenges/Weak RSA - COMPLETE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/challenges/Weak RSA/README.md",
+                "file": "HTB/challenges/Weak RSA - COMPLETE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/challenges/Weak RSA/README.md"
+                "file": "HTB/challenges/Weak RSA - COMPLETE/README.md"
               }
             }
           },
@@ -163,8 +163,8 @@
     "attachments/Pasted image 20240110113813.png",
     "attachments/Pasted image 20240110113314.png",
     "HTB/challenges/Initialization - COMPLETE/README.md",
-    "HTB/challenges/Weak RSA/README.md",
-    "HTB/challenges/Weak RSA",
+    "HTB/challenges/Weak RSA - COMPLETE/README.md",
+    "HTB/challenges/Weak RSA - COMPLETE",
     "attachments/Pasted image 20240109230126.png",
     "attachments/Pasted image 20240109230020.png",
     "attachments/Pasted image 20240109230012.png",
