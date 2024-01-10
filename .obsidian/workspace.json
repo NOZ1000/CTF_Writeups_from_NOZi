@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/challenges/Initialization - COMPLETE/README.md",
+                "file": "HTB/challenges/Weak RSA/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/challenges/Initialization - COMPLETE/README.md",
+                "file": "HTB/challenges/Weak RSA/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/challenges/Initialization - COMPLETE/README.md",
+                "file": "HTB/challenges/Weak RSA/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/challenges/Initialization - COMPLETE/README.md"
+                "file": "HTB/challenges/Weak RSA/README.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "788d5c9a4fdaf62a",
   "lastOpenFiles": [
+    "HTB/challenges/Initialization - COMPLETE/README.md",
+    "HTB/challenges/Weak RSA/README.md",
+    "HTB/challenges/Weak RSA",
     "attachments/Pasted image 20240109230126.png",
     "attachments/Pasted image 20240109230020.png",
     "attachments/Pasted image 20240109230012.png",
@@ -167,8 +170,6 @@
     "attachments/Pasted image 20240109225227.png",
     "attachments/Pasted image 20240109225100.png",
     "attachments/Pasted image 20240109224952.png",
-    "attachments/Pasted image 20240109224820.png",
-    "HTB/challenges/Initialization - COMPLETE/README.md",
     "HTB/challenges/Initialization - COMPLETE",
     "HTB/challenges/Android-in-the-Middle - COMPLETE/Script.md",
     "HTB/challenges/Android-in-the-Middle - COMPLETE/solution.py.md",
