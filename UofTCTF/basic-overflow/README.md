@@ -8,7 +8,7 @@ From decompiled main function we can see:
 
 ![](../../attachments/Pasted%20image%2020240115141509.png)
 
-I creates buffer 64 bytes long. And waits our input using `gets()` function. It is usual function for pwn tasks, it is vulnarable for buffer overflow. It means that the function doesnt check the length of the input and overwrites the memory if input more than 64 bytes.
+It creates buffer 64 bytes long. And waits our input using `gets()` function. It is usual function for pwn tasks, it is vulnarable for buffer overflow. It means that the function doesnt check the length of the input and overwrites the memory if input more than 64 bytes.
 
 Additionally we can see `shell` function, it is not called in program:
 
