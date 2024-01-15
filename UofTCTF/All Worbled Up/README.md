@@ -1,5 +1,6 @@
-Pretty easy reverse task, but with some intersting aspects.
+# Main idea
 
+Pretty easy reverse task, but with some intersting aspects.
 From the challenge we have encrpyted flag in hex:
 
 ```
@@ -120,3 +121,4 @@ def brute_force_flag():
 ![](../../attachments/Pasted%20image%2020240115144420.png)
 
 The interesting thing was in reversing operations from original, because in our brute force function we didnt use `shmorble()` (i tried with `shmorble()` but it falied and nothig was outputed). In some reasons when original encrypted flag from description was generated it didnt use `shmorble()`
+
