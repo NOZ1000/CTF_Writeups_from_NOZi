@@ -35,9 +35,9 @@ But we can predict key, because we can predict the begining of the flag.
 
 `encrypted_flag` XOR `xor_key` = uoftctf{ + end_of_flag
 
-prefix uoftctf{ is 8 bytes long, so
+prefix uoftctf{ is 8 bytes long and `xor_key` 8 bytes long, so
 
-`encrypted_flag` XOR  uoftctf{ = `xor_key`
+`encrypted_flag`(first 8 bytes) XOR  uoftctf{ = `xor_key`
 
 and we can retrieve flag
 # Solution script 
@@ -51,13 +51,13 @@ enc_flag = bytes.fromhex(enc_flag)
 def xor(message, key):
     return bytes([message[i] ^ key[i % len(key)] for i in range(len(message))])
 
-def find_first_key_byte(encrypted_flag):
+def find_key(encrypted_flag):
     signature = b'uoftctf{'
     key = xor(encrypted_flag[:len(signature)], signature)
     
     return key
 
-key = find_first_key_byte(enc_flag)
+key = find_key(enc_flag)
 
 flag = xor(enc_flag, key)
 print(flag.decode())
