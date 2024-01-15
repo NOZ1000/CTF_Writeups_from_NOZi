@@ -20,7 +20,7 @@ And python's byte code, that encryptes our flag.
 
 # Solution
 
-With me teammate, tried to reverse byte code using our hands and Chat-GPT 3.5.
+With teammate, i tried to reverse byte code using our hands and Chat-GPT 3.5.
 And that code we reconctructed from byte code.
 
 ```python
