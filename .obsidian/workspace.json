@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UofTCTF/Voice Changer/README.md",
+                "file": "UofTCTF/No code/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UofTCTF/Voice Changer/README.md",
+                "file": "UofTCTF/No code/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UofTCTF/Voice Changer/README.md",
+                "file": "UofTCTF/No code/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UofTCTF/Voice Changer/README.md"
+                "file": "UofTCTF/No code/README.md"
               }
             }
           },
@@ -157,6 +157,10 @@
   },
   "active": "788d5c9a4fdaf62a",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240115133516.png",
+    "UofTCTF/Voice Changer/README.md",
+    "UofTCTF/No code/README.md",
+    "UofTCTF/No code",
     "attachments/Pasted image 20240115132925.png",
     "attachments/Pasted image 20240115132640.png",
     "attachments/Pasted image 20240115132555.png",
@@ -168,11 +172,9 @@
     "attachments/Pasted image 20240115131759.png",
     "attachments/Pasted image 20240115131745.png",
     "IrisCTF/dhash/README.md",
-    "UofTCTF/Voice Changer/README.md",
     "HTB/challenges/Weak RSA - COMPLETE/README.md",
     "UofTCTF/Voice Changer",
     "UofTCTF",
-    "attachments/Pasted image 20240110114619.png",
     "HTB/challenges/Initialization - COMPLETE/README.md",
     "HTB/challenges/Weak RSA - COMPLETE",
     "HTB/challenges/Initialization - COMPLETE",
@@ -185,7 +187,6 @@
     "HTB/challenges/Gonna-Lift-Em-All - COMPLETE",
     "HTB/challenges/Android-in-the-Middle - COMPLETE",
     "HTB/challenges",
-    "HTB",
-    "attachments"
+    "HTB"
   ]
 }

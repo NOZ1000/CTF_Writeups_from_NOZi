@@ -28,7 +28,7 @@ Lets try to bypass quotes in command and execute our command:
 
 ![](../../attachments/Pasted%20image%2020240115132555.png)
 
-Now we can see current directoris files:
+Now we can see files from apps directory:
 
 ![](../../attachments/Pasted%20image%2020240115132640.png)
 
