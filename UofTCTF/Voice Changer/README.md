@@ -26,3 +26,18 @@ In output we can see our payload:
 
 Lets try to bypass quotes in command and execute our command:
 
+![](../../attachments/Pasted%20image%2020240115132555.png)
+
+Now we can see current directoris files:
+
+![](../../attachments/Pasted%20image%2020240115132640.png)
+
+We can search flag:
+
+![](../../attachments/Pasted%20image%2020240115132925.png)
+
+And finally cat it.
+
+```sh
+"; cat /flag.txt;
+```
